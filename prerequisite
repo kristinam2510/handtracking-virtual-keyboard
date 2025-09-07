@@ -1,0 +1,4 @@
+pip install opencv-python mediapipe cvzone numpy
+python 3.11
+py -3.11 -m venv venv311
+venv311\Scripts\activate
